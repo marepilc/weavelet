@@ -9,7 +9,7 @@ description = "A library for managing function calls in specific order, to avoid
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
-authors = [{ name = "Marek", email = "marek@example.com" }]
+authors = [{ name = "Marek", email = "marek@mp76.pl" }]
 license = { text = "MIT" }
 classifiers = [
     "Development Status :: 3 - Alpha",
@@ -22,9 +22,9 @@ classifiers = [
 keywords = ["dag", "workflow", "orchestration", "function", "dependency"]
 
 [project.urls]
-Homepage = "https://github.com/marek/weavelet"
-Repository = "https://github.com/marek/weavelet.git"
-Issues = "https://github.com/marek/weavelet/issues"
+Homepage = "https://github.com/marepilc/weavelet"
+Repository = "https://github.com/marepilc/weavelet.git"
+Issues = "https://github.com/marepilc/weavelet/issues"
 
 [dependency-groups]
 dev = ["pytest>=8.4.2", "pytest-cov", "mypy>=1.8.0", "ruff>=0.1.0"]
